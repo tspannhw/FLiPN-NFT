@@ -1,6 +1,10 @@
 # FLiPN-NFT
+
 Reading OpenSea NFT with Apache NiFi, Apache Pulsar and Friends.   Meetup.  StreamNative
 
+### Upcoming Meetup Demo
+
+https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/283837865/
 
 ### Example NFT JSON Record
 
