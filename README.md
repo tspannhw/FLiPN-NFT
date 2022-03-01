@@ -18,6 +18,7 @@ bin/pulsar-admin topics create persistent://public/default/crypto
 bin/pulsar-client consume "persistent://public/default/crypto" -s "nftreadercrypto" -n 0
 bin/pulsar-client consume "persistent://public/default/nft" -s "nftyreader" -n 0
 
+bin/pulsar-admin schemas get "persistent://public/default/nft"
 ````
 
 ### Example NFT JSON Record
