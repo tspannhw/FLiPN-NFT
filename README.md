@@ -64,3 +64,20 @@ bin/pulsar-admin schemas get "persistent://public/default/nft"
 }
 
 ````
+
+### Resources
+
+* https://github.com/tspannhw/FLiPN-Demos
+* https://www.datainmotion.dev/2021/11/producing-and-consuming-pulsar-messages.html
+* https://github.com/streamnative/pulsar-nifi-bundle
+* https://dzone.com/articles/pulsar-in-python-on-pi
+* https://www.linkedin.com/newsletters/flip-stack-weekly-6861715928728576000/
+* https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
+* https://www.slideshare.net/bunkertor/devfest-uk-ireland-using-apache-nifi-with-apache-pulsar-for-fast-data-onramp-2022
+* https://www.slideshare.net/bunkertor/data-science-online-camp-using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar
+* https://www.slideshare.net/bunkertor/api-world-apache-nifi-101
+* https://www.slideshare.net/bunkertor/ai-dev-world-utilizing-apache-pulsar-apache-ni-fi-and-minifi-for-edgeai-iot-at-scale
+* https://github.com/tspannhw/EverythingApacheNiFi
+* https://www.slideshare.net/bunkertor/apachecon-2021-apache-nifi-101-introduction-and-best-practices
+* https://www.pulsardeveloper.com/
+* https://arcade.sqlbits.com/session-details/?id=298240
