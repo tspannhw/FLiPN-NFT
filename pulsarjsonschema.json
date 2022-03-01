@@ -1,0 +1,259 @@
+{
+  "version": 0,
+  "schemaInfo": {
+    "name": "nft",
+    "schema": {
+      "type": "record",
+      "name": "nft",
+      "fields": [
+        {
+          "name": "date",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "short_description",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "featured",
+          "type": [
+            "null",
+            "boolean"
+          ]
+        },
+        {
+          "name": "image_thumbnail_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_created_date",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_owner",
+          "type": [
+            "null",
+            "int"
+          ]
+        },
+        {
+          "name": "image_preview_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_symbol",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "twitter_username",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "description",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_address",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "external_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "token_id",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_name",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_nft_version",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_description",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_external_link",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "id",
+          "type": [
+            "null",
+            "int"
+          ]
+        },
+        {
+          "name": "featured_image_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "slug",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "token_metadata",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_schema_name",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "animation_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "num_sales",
+          "type": [
+            "null",
+            "int"
+          ]
+        },
+        {
+          "name": "image_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_default_to_fiat",
+          "type": [
+            "null",
+            "boolean"
+          ]
+        },
+        {
+          "name": "external_link",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "image_original_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_payout_address",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "animation_original_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "background_color",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_asset_contract_type",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "name",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_image_url",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        {
+          "name": "asset_contract_total_supply",
+          "type": [
+            "null",
+            "string"
+          ]
+        }
+      ]
+    },
+    "type": "JSON",
+    "properties": {}
+  }
+}
