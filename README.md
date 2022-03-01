@@ -6,6 +6,20 @@ Reading OpenSea NFT with Apache NiFi, Apache Pulsar and Friends.   Meetup.  Stre
 
 https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/283837865/
 
+### Pulsar Build
+
+````
+bin/pulsar-admin topics delete persistent://public/default/nft
+bin/pulsar-admin topics delete persistent://public/default/crypto
+
+bin/pulsar-admin topics create persistent://public/default/nft
+bin/pulsar-admin topics create persistent://public/default/crypto
+
+bin/pulsar-client consume "persistent://public/default/crypto" -s "nftreadercrypto" -n 0
+bin/pulsar-client consume "persistent://public/default/nft" -s "nftyreader" -n 0
+
+````
+
 ### Example NFT JSON Record
 
 ````
