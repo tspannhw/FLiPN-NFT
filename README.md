@@ -1,6 +1,11 @@
 # FLiPN-NFT
 
+![FLiPNFriends](https://github.com/tspannhw/FLiPN-NFT/raw/main/PulsarNiFiFriends.png)
+
 Reading OpenSea NFT with Apache NiFi, Apache Pulsar and Friends.   Meetup.  StreamNative
+
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/FLiPNNFT1.png)
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/FLiPNNFT2.png)
 
 ### Upcoming Meetup Demo
 
@@ -20,6 +25,18 @@ bin/pulsar-client consume "persistent://public/default/nft" -s "nftyreader" -n 0
 
 bin/pulsar-admin schemas get "persistent://public/default/nft"
 ````
+
+### Apache NiFi Flows
+
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/NiFiFlow1.jpg)
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/nififlow2.jpg)
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/NiFiFlow3.jpg)
+
+### NiFi -> Pulsar Flow
+
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/PublishPulsarRecord.jpg)
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/PulsarClientOauthAuthService.jpg)
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/raw/main/StandardPulsarClientService.jpg)
 
 ### Example NFT JSON Record
 
@@ -64,6 +81,13 @@ bin/pulsar-admin schemas get "persistent://public/default/nft"
 }
 
 ````
+![FLiPN](https://github.com/tspannhw/FLiPN-NFT/blob/main/nftdata.jpg)
+
+
+### StreamNative Cloud
+
+![StreamNative](https://github.com/tspannhw/FLiPN-NFT/raw/main/sncloud.jpg)
+
 
 ### Resources
 
