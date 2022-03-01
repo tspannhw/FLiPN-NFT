@@ -1,0 +1,145 @@
+{
+  "type" : "record",
+  "name" : "nft",
+  "fields" : [ {
+    "name" : "date",
+    "type" : "string",
+    "doc" : "Type inferred from '\"Thu, 24 Feb 2022 22:26:41 GMT\"'"
+  }, {
+    "name" : "short_description",
+    "type" : "string",
+    "doc" : "Type inferred from '\"\"'"
+  }, {
+    "name" : "featured",
+    "type" : "string",
+    "doc" : "Type inferred from '\"false\"'"
+  }, {
+    "name" : "image_thumbnail_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://lh3.googleusercontent.com/OQtkOarN4Xi7KwxQi3ELcg6Cj_umwPZ4WULfsGC602zhNMWOgpTzhVw4g1fwQ9BKXAD_gCmBzAiO8_7CEhZ5ep1E1acGLY9IdQyNRQ=s128\"'"
+  }, {
+    "name" : "asset_contract_created_date",
+    "type" : "string",
+    "doc" : "Type inferred from '\"2022-02-17T15:48:44.822206\"'"
+  }, {
+    "name" : "asset_contract_owner",
+    "type" : "string",
+    "doc" : "Type inferred from '\"50299352\"'"
+  }, {
+    "name" : "image_preview_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://lh3.googleusercontent.com/OQtkOarN4Xi7KwxQi3ELcg6Cj_umwPZ4WULfsGC602zhNMWOgpTzhVw4g1fwQ9BKXAD_gCmBzAiO8_7CEhZ5ep1E1acGLY9IdQyNRQ=s250\"'"
+  }, {
+    "name" : "asset_contract_symbol",
+    "type" : "string",
+    "doc" : "Type inferred from '\"TD\"'"
+  }, {
+    "name" : "twitter_username",
+    "type" : "string",
+    "doc" : "Type inferred from '\"\"'"
+  }, {
+    "name" : "description",
+    "type" : "string",
+    "doc" : "Type inferred from '\"10,000 metaverse-ready Avatars, playable in The Sandbox. Each Doggy has been generated from over 150+ traits, curated by Snoop Dogg himself. Owning a Doggy provides instant access to a playable The Sandbox avatar, as well as access to future features inside the metaverse.\"'"
+  }, {
+    "name" : "asset_contract_address",
+    "type" : "string",
+    "doc" : "Type inferred from '\"0xc7df86762ba83f2a6197e1ff9bb40ae0f696b9e6\"'"
+  }, {
+    "name" : "external_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://www.sandbox.game/en/snoopdogg/\"'"
+  }, {
+    "name" : "token_id",
+    "type" : "string",
+    "doc" : "Type inferred from '\"492\"'"
+  }, {
+    "name" : "asset_contract_name",
+    "type" : "string",
+    "doc" : "Type inferred from '\"The Doggies\"'"
+  }, {
+    "name" : "asset_contract_nft_version",
+    "type" : "string",
+    "doc" : "Type inferred from '\"3.0\"'"
+  }, {
+    "name" : "asset_contract_description",
+    "type" : "string",
+    "doc" : "Type inferred from '\"🐶 The Doggies - Snoop Dogg Avatars  🐶\\r\\n\\r\\n10,000 metaverse-ready Avatars, playable in The Sandbox. Each Doggy has been generated from over 150+ traits, curated by Snoop Dogg himself. Owning a Doggy provides access to a playable The Sandbox avatar, as well as access to future features inside the metaverse.\"'"
+  }, {
+    "name" : "asset_contract_external_link",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://www.sandbox.game/en/snoopdogg/\"'"
+  }, {
+    "name" : "id",
+    "type" : "string",
+    "doc" : "Type inferred from '\"307922619\"'"
+  }, {
+    "name" : "featured_image_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://lh3.googleusercontent.com/wvqBWnsjATeAxPjIGHGjgb5FxrRWPKapA-74rzjAtkIHuE32mM3l1HahOdB_Ue0qZuy2ur0wDoBFiq3GFx9T-ldNfQXIqQG88HUBCA=s300\"'"
+  }, {
+    "name" : "slug",
+    "type" : "string",
+    "doc" : "Type inferred from '\"snoop-dogg-doggies\"'"
+  }, {
+    "name" : "token_metadata",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://contracts.sandbox.game/unrevealed.json?tokenId=492\"'"
+  }, {
+    "name" : "asset_contract_schema_name",
+    "type" : "string",
+    "doc" : "Type inferred from '\"ERC721\"'"
+  }, {
+    "name" : "animation_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://storage.opensea.io/files/30139d8b3e08fedd4ababa634b16f965.mp4\"'"
+  }, {
+    "name" : "num_sales",
+    "type" : "string",
+    "doc" : "Type inferred from '\"1\"'"
+  }, {
+    "name" : "image_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://lh3.googleusercontent.com/ufumJQN9NwT0U5jh_suJP5cLRIjyE38hirVdBChQLe-ghnt1RomIARfxSNmR6fdMQC0OIgjVQHhhduUfcxiRVrfHpihrXSW-SU5J=s120\"'"
+  }, {
+    "name" : "asset_contract_default_to_fiat",
+    "type" : "string",
+    "doc" : "Type inferred from '\"false\"'"
+  }, {
+    "name" : "external_link",
+    "type" : "string",
+    "doc" : "Type inferred from '\"\"'"
+  }, {
+    "name" : "image_original_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://contracts.sandbox.game/preview.png\"'"
+  }, {
+    "name" : "asset_contract_payout_address",
+    "type" : "string",
+    "doc" : "Type inferred from '\"0x4489590a116618b506f0efe885432f6a8ed998e9\"'"
+  }, {
+    "name" : "animation_original_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://contracts.sandbox.game/video.mp4\"'"
+  }, {
+    "name" : "background_color",
+    "type" : "string",
+    "doc" : "Type inferred from '\"\"'"
+  }, {
+    "name" : "asset_contract_asset_contract_type",
+    "type" : "string",
+    "doc" : "Type inferred from '\"non-fungible\"'"
+  }, {
+    "name" : "name",
+    "type" : "string",
+    "doc" : "Type inferred from '\"The Doggies\"'"
+  }, {
+    "name" : "asset_contract_image_url",
+    "type" : "string",
+    "doc" : "Type inferred from '\"https://lh3.googleusercontent.com/ufumJQN9NwT0U5jh_suJP5cLRIjyE38hirVdBChQLe-ghnt1RomIARfxSNmR6fdMQC0OIgjVQHhhduUfcxiRVrfHpihrXSW-SU5J=s120\"'"
+  }, {
+    "name" : "asset_contract_total_supply",
+    "type" : "string",
+    "doc" : "Type inferred from '\"0\"'"
+  } ]
+}
