@@ -88,6 +88,12 @@ bin/pulsar-admin schemas get "persistent://public/default/nft"
 
 ![StreamNative](https://github.com/tspannhw/FLiPN-NFT/raw/main/sncloud.jpg)
 
+### Example OpenSea NFT
+
+* https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/100991634640497770476815612179593989963737896818233128255983143429914595688449
+* https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/100991634640497770476815612179593989963737896818233128255983143431014107316225
+
+![NFTTable](https://github.com/tspannhw/FLiPN-NFT/raw/main/nfttable.jpg)
 
 ### Resources
 
