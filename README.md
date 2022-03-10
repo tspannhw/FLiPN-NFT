@@ -101,6 +101,9 @@ bin/pulsar-admin schemas get "persistent://public/default/nft"
 
 ### Resources
 
+* https://github.com/tspannhw/EverythingApacheNiFi
+* https://github.com/tspannhw/awesome-nifi-pulsar
+* https://thenewstack.io/pulsar-nifi-better-together-for-messaging-streaming/
 * https://github.com/tspannhw/FLiPN-Demos
 * https://www.datainmotion.dev/2021/11/producing-and-consuming-pulsar-messages.html
 * https://github.com/streamnative/pulsar-nifi-bundle
